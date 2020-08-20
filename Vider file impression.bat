@@ -47,7 +47,3 @@ echo Demarrage du spouleur d'impression
 	net start spooler
 echo.
 	ping 127.0.0.1 -n 5 > NUL 2>&1
-echo Processus termine
-echo.
-echo ######################################
-echo.
